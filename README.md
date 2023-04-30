@@ -5,9 +5,9 @@ The task is to analyze the district-wide standardized test results of students i
 
 Final report included each of the following:
 
-District Summary
+#District Summary
 
-Create a high level snapshot (in table form) of the district's key metrics, including:
+#Create a high level snapshot (in table form) of the district's key metrics, including:
 Total Schools
 Total Students
 Total Budget
@@ -18,7 +18,7 @@ Average Reading Score
 Overall Passing Rate (Average of the above two)
 School Summary
 
-Create an overview table that summarizes key metrics about each school, including:
+#Create an overview table that summarizes key metrics about each school, including:
 School Name
 School Type
 Total Students
@@ -31,7 +31,7 @@ Average Reading Score
 Overall Passing Rate (Average of the above two)
 Top Performing Schools (By Passing Rate)
 
-Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
+#Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
 School Name
 School Type
 Total Students
@@ -44,16 +44,16 @@ Average Reading Score
 Overall Passing Rate (Average of the above two)
 Top Performing Schools (By Passing Rate)
 
-Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+#Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 Math Scores by Grade
 
-Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+#Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 Reading Scores by Grade
 
-Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+#Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 Scores by School Spending
 
-Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+#Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
 Average Math Score
 Average Reading Score
 % Passing Math
